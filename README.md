@@ -53,7 +53,8 @@ To run this project, you need to have Python installed along with the following 
 - Convert the Timestamp column to datetime format.
 - Create a new Date column from the Timestamp.
 - Convert specific columns to categorical types.
-- Exploratory Data Analysis (EDA)
+
+# Exploratory Data Analysis (EDA)
 - Visualize the distribution of transactions across different locations and device types.
 - Generate summary statistics for numerical columns.
 - Model Training
